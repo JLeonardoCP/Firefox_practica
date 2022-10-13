@@ -1,0 +1,198 @@
+/* JLCP */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+.ancho {
+  max-width: 1200px;
+  margin: auto;
+}
+.menu_div {
+  border-bottom: 5px #D0CCC7 solid;
+}
+.inicio {
+  padding: 17px;
+}
+.logocabe {
+  margin-right: 30px;
+  vertical-align: middle;
+  display: inline-block;
+}
+.menu {
+  vertical-align: middle;
+  display: inline-block;
+}
+.menu a {
+  font-family:sans-serif;
+  margin-right: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.menu a:hover {
+  padding-bottom: 4px;
+  border-bottom: black solid;
+}
+.menu a:nth-child(4){
+  margin-right: 0px;
+}
+.Descarga_bnc {
+  border: 2px #0250BB solid;
+  color: #0250BB;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 12px;
+  display: inline-block;
+  margin-left: 250px;
+}
+.Descarga_bnc:hover {
+  background-color: #0250BB;
+  color: white;
+}
+.logofire {
+  width: 100px;
+  margin: 15px 18px 0px;
+}
+.siempre {
+  margin-left: 18px;
+  width: 600px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.siempre h1 {
+  line-height: 40px;
+  margin-bottom: 30px;
+  font-size: 45px;
+}
+.siempre p {
+  margin-bottom: 20px;
+}
+.Descarga_blue {
+  background-color: #0250BB;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 12px;
+  display: inline-block;
+}
+.Descarga_blue:hover {
+  background-color: #033c8c;
+  color: white;
+}
+.text2 {
+  margin-left: 5px;
+  font-size: 10px;
+}
+.computadora {
+  display: inline-block;
+  width: 500px;
+  vertical-align: middle;
+}
+.cont_dino {
+  background-color: #F7F7F7;
+  text-align: center;
+}
+.dino {
+  display: inline-block;
+  width: 300px;
+  vertical-align: top;
+  margin-top: 20px;
+}
+.hacemos {
+  display: inline-block;
+  width: 290px;
+  margin: 20px 0px 20px;
+}
+.hacemos h2 {
+  line-height: 45px;
+  font-size: 36px;
+}
+.impa_innova{
+  text-align: center;
+}
+.cont_imno {
+  text-align: left;
+  padding: 30px 50px 50px;
+  width: 540px;
+  display: inline-block;
+}
+ul a {
+  color: #0000FF;
+  font-weight: bold;
+}
+.impacto {
+  border-right: 2px #C6C6C6 solid;
+}
+.exten_EN {
+  text-align: center;
+}
+.carta {
+  margin: 60px;
+  text-align: center;
+  width: 250px;
+  display: inline-block;
+}
+.carta a {
+  margin-bottom: 20px;
+  color: black;
+  display: inline-block;
+}
+.carta img {
+  width: 90px;
+  display: inline-block;
+}
+.recibe_n {
+  text-align: center;
+}
+.recibe_n img {
+  display: inline-block;
+  width: 250px;
+  margin-left: 300px;
+  margin-right: 100px;
+}
+.formu {
+  display: inline-block;
+  width: 500px;
+  vertical-align: top;
+  margin: 30px 0px ;
+  text-align: left;
+
+}
+.formu h2 {
+  font-size: 30px;
+  line-height: 30px;
+}
+.correo {
+  width: 250px;
+  border-radius: 4px;
+  padding: 8px;
+}
+.solicitar {
+  width: 250px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 6px;
+  border-radius: 7px;
+}
+.solicitar:hover{
+  cursor: pointer;
+  color: black;
+  background-color: white;
+}
+.recibe_n p {
+  font-size: 9px;
+  margin-left: 13px;
+}
+.moz {
+  text-align: center;
+  background-color: black;
+  padding: 20px;
+}
